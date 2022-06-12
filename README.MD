@@ -2,13 +2,15 @@
 
 My name is Yash and I build softwares, you can find me on [![Twitter][1.1]][3.1],  or on [![LinkedIn][1.2]][3.2]
 
-Exploring Jekyll [2.1]
+Exploring [![Jekyll]][2.1]
 
 
-<!-- Link Category--!>
+<!--
+ Link Category
 [1]: Web Icon Links 
 [2]: Web URLs
 [3]: Social Links 
+--!>
 
 <!-- Web Icon Links  -->
 [1.1]: http://i.imgur.com/wWzX9uB.png
