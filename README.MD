@@ -20,7 +20,7 @@ Exploring [Jekyll][2.1]
 [2.1]: https://jekyllrb.com/philosophy/
 
 <!-- Social Links -->
-[3.1]: [https://twitter.com/YashTw2](https://twitter.com/Y_a_s_h_K)
+[3.1]: [https://twitter.com/Y_a_s_h_K](https://twitter.com/Y_a_s_h_K)
 [3.2]: https://www.linkedin.com/in/yashendra-kumar-6a031986/
 
 ![Yash's GitHub stats](https://github-readme-stats.vercel.app/api?username=CharTinker)
