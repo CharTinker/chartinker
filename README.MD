@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Yash and I build softwares, you can find me on [![Twitter][1.1]][3.1],  or on [![LinkedIn][1.2]][3.2]
+I build and deliver business softwares, you can find me on [![Twitter][1.1]][3.1],  or on [![LinkedIn][1.2]][3.2]
 
 Exploring [Jekyll][2.1]
 
