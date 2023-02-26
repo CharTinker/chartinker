@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 I build and deliver business softwares. [![Twitter][1.1]][3.1] [![LinkedIn][1.2]][3.2]
 
@@ -24,6 +24,4 @@ Exploring [Jekyll][2.1]
 [3.2]: https://www.linkedin.com/in/yashendra-kumar-6a031986/
 
 ![Yash's GitHub stats](https://github-readme-stats.vercel.app/api?username=CharTinker)
-
-
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CharTinker&layout=compact)
