@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I build and deliver business softwares. [![Twitter][1.1]][3.1] [![LinkedIn][1.2]][3.2]
+Senior Software Engineer specializing in .NET, React, cloud architecture, and data systems, actively leveraging open-source technologies and contributing to the developer community through code, documentation, and technical mentorship. [![Twitter][1.1]][3.1] [![LinkedIn][1.2]][3.2]
 
 Exploring [Jekyll][2.1]
 
