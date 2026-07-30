@@ -12,16 +12,13 @@ I specialize in building scalable enterprise platforms, cloud applications, syst
 ![GitHub Stars](https://img.shields.io/github/stars/CharTinker?affiliations=OWNER&label=Stars)
 
 ## 🚀 About Me
-
-- Lead Software Developer with more than 12 years of professional experience
-- Experienced in enterprise application architecture and technical delivery
-- Full-stack development with C#, .NET, React, Angular, and SQL Server
-- Cloud development experience across Microsoft Azure and AWS
-- Enterprise integration experience using REST APIs and distributed systems
-- Healthcare and laboratory software development experience
-- Experienced in legacy application modernization
-- Technical leadership, code reviews, mentoring, and engineering best practices
-- Strong focus on scalability, security, performance, and maintainability
+- Expertise in full-stack application development using C#, .NET, ASP.NET Core, React, Angular, TypeScript, and SQL Server
+- Experienced in architecting and delivering scalable cloud-native solutions on Microsoft Azure and AWS
+- Strong background in enterprise application integration using REST APIs, microservices, and distributed systems
+- Extensive experience developing healthcare software, Laboratory Information Systems (LIS), and laboratory instrument integrations
+- Proven success modernizing legacy applications into secure, scalable, high-performance, and maintainable platforms
+- Technical leadership experience in solution architecture, code reviews, developer mentoring, and engineering best practices
+- Passionate about building resilient, secure, and high-quality software that delivers measurable business value
 
 ## 💻 Most-Used Languages
 ![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=CharTinker&layout=compact)
