@@ -25,14 +25,10 @@ I specialize in building scalable enterprise platforms, cloud applications, syst
 - Technical leadership, code reviews, mentoring, and engineering best practices
 - Strong focus on scalability, security, performance, and maintainability
 
---
-
 ## 💻 Most-Used Languages
-
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=CharTinker&layout=compact)
 ![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=CharTinker&show_icons=true)
 > Language percentages are calculated from public repository code and do not represent overall professional experience.
-
---
 
 ## 🌱 Currently Exploring
 
@@ -44,8 +40,6 @@ I specialize in building scalable enterprise platforms, cloud applications, syst
 - Kubernetes
 - Open-source technologies
 - [Jekyll](https://jekyllrb.com/philosophy/)
-
---
 
 ## 🎯 Areas of Interest
 
@@ -59,8 +53,6 @@ I specialize in building scalable enterprise platforms, cloud applications, syst
 - Technical leadership
 - Open-source software
 
---
-
 ## 📊 GitHub Activity
 
 [View my repositories](https://github.com/CharTinker?tab=repositories)
@@ -68,16 +60,11 @@ I specialize in building scalable enterprise platforms, cloud applications, syst
 [View my contribution activity](https://github.com/CharTinker)
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=CharTinker&theme=github)
---
-
-
 
 ## 🤝 Connect With Me
 
 - [LinkedIn](https://www.linkedin.com/in/yashendra-kumar-6a031986/)
 - [X / Twitter](https://twitter.com/Y_a_s_h_K)
 - [GitHub](https://github.com/CharTinker)
-
---
 
 > Great software is built by understanding people, solving meaningful problems, and continuously improving.
