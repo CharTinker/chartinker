@@ -2,7 +2,7 @@
 
 ## Lead Software Developer | Solution Architect | Full-Stack .NET Engineer
 
-Lead Software Developer with **12+ years of experience** designing, developing, modernizing, and leading enterprise software solutions using **C#, .NET, ASP.NET Core, React, Angular, SQL Server, Azure, and AWS**.
+Lead Software Developer with expertise in architecting, developing, and modernizing enterprise software solutions using C#, .NET, ASP.NET Core, React, Angular, SQL Server, Azure, and AWS.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Yashendra%20Kumar-blue?logo=linkedin)](https://www.linkedin.com/in/yashxkr/)
 [![X](https://img.shields.io/badge/X-@Y_a_s_h_K-black?logo=x)](https://twitter.com/Y_a_s_h_K)
