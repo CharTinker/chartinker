@@ -27,8 +27,8 @@
 ## 📊 GitHub Activity
 
 ![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=CharTinker&show_icons=true)
-[View my repositories](https://github.com/CharTinker?tab=repositories)
-[View my contribution activity](https://github.com/CharTinker)
+![View my repositories](https://github.com/CharTinker?tab=repositories)
+![View my contribution activity](https://github.com/CharTinker)
 
 ## 🤝 Connect With Me
 
