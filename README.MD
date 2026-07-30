@@ -11,8 +11,6 @@ I specialize in building scalable enterprise platforms, cloud applications, syst
 ![GitHub Followers](https://img.shields.io/github/followers/CharTinker?label=Followers)
 ![GitHub Stars](https://img.shields.io/github/stars/CharTinker?affiliations=OWNER&label=Stars)
 
---
-
 ## 🚀 About Me
 
 - Lead Software Developer with more than 12 years of professional experience
@@ -55,12 +53,9 @@ I specialize in building scalable enterprise platforms, cloud applications, syst
 ## 📊 GitHub Activity
 
 ![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=CharTinker&show_icons=true)
-
-[View my repositories](https://github.com/CharTinker?tab=repositories)
-
-[View my contribution activity](https://github.com/CharTinker)
-
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=CharTinker&theme=github)
+[View my repositories](https://github.com/CharTinker?tab=repositories)
+[View my contribution activity](https://github.com/CharTinker)
 
 ## 🤝 Connect With Me
 
