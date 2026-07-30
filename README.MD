@@ -29,7 +29,7 @@ I specialize in building scalable enterprise platforms, cloud applications, syst
 
 ## 💻 Most-Used Languages
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=CharTinker&theme=github)
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=CharTinker&show_icons=true)
 > Language percentages are calculated from public repository code and do not represent overall professional experience.
 
 --
@@ -47,14 +47,6 @@ I specialize in building scalable enterprise platforms, cloud applications, syst
 
 --
 
-## 📊 GitHub Activity
-
-[View my repositories](https://github.com/CharTinker?tab=repositories)
-
-[View my contribution activity](https://github.com/CharTinker)
-
---
-
 ## 🎯 Areas of Interest
 
 - Software architecture
@@ -68,6 +60,17 @@ I specialize in building scalable enterprise platforms, cloud applications, syst
 - Open-source software
 
 --
+
+## 📊 GitHub Activity
+
+[View my repositories](https://github.com/CharTinker?tab=repositories)
+
+[View my contribution activity](https://github.com/CharTinker)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=CharTinker&theme=github)
+--
+
+
 
 ## 🤝 Connect With Me
 
