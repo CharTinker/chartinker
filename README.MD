@@ -27,7 +27,6 @@ I specialize in building scalable enterprise platforms, cloud applications, syst
 
 ## 💻 Most-Used Languages
 ![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=CharTinker&layout=compact)
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=CharTinker&show_icons=true)
 > Language percentages are calculated from public repository code and do not represent overall professional experience.
 
 ## 🌱 Currently Exploring
@@ -54,6 +53,8 @@ I specialize in building scalable enterprise platforms, cloud applications, syst
 - Open-source software
 
 ## 📊 GitHub Activity
+
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=CharTinker&show_icons=true)
 
 [View my repositories](https://github.com/CharTinker?tab=repositories)
 
