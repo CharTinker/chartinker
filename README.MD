@@ -7,7 +7,6 @@
 ![GitHub Followers](https://img.shields.io/github/followers/CharTinker?label=Followers)
 ![GitHub Stars](https://img.shields.io/github/stars/CharTinker?affiliations=OWNER&label=Stars)
 
-## 💻 Most-Used Languages
 ![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=CharTinker&layout=compact)
 > Language percentages are calculated from public repository code and do not represent overall professional experience.
 
